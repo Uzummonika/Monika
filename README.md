@@ -5,4 +5,5 @@ My name is Monika and I am searching for a job as a junior manual software teste
 
 # Test plan for Olsztyn Planetarium and Astronomical Observatory 
 
+git add Plan testów_Planetarium-2.pdf 
 
