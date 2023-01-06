@@ -27,6 +27,8 @@ CodersLab - Manual Software Tester Course
 
 # Test cases for webstite - dobreliski.pl 
 
+https://drive.google.com/file/d/1xCAx5wcOe07EDlJxEIxQ_pMNyqqlbM7b/view?usp=sharing
+
 # Test cases and bug report for website - planetarium.olsztyn.pl
 
 # Technical Books read
