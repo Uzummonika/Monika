@@ -42,3 +42,7 @@ Testowanie i jakość oprogramowania - Adam Roman
 Certyfikowany tester ISTQB. Poziom podstawowy - Roman Adam, Stapp Lucjan
 Język SQL. Przyjazny podręcznik. Wydanie III - Larry Rockoff
 
+# Languages 
+Polish - Native 
+Turkish - B2/C1
+English - B2
