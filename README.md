@@ -37,10 +37,10 @@ https://drive.google.com/file/d/1Z_kQ_bZ6MwluguniwdWyvlWtui1FaYZr/view?usp=shari
 
 # Technical Books read
 
-Radosław Smilgin - Zawód tester
-Testowanie i jakość oprogramowania - Adam Roman 
-Certyfikowany tester ISTQB. Poziom podstawowy - Roman Adam, Stapp Lucjan
-Język SQL. Przyjazny podręcznik. Wydanie III - Larry Rockoff
+- Radosław Smilgin - Zawód tester
+- Testowanie i jakość oprogramowania - Adam Roman 
+- Certyfikowany tester ISTQB. Poziom podstawowy - Roman Adam, Stapp Lucjan
+- Język SQL. Przyjazny podręcznik. Wydanie III - Larry Rockoff
 
 # Languages 
 - Polish - Native 
