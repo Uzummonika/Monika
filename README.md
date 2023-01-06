@@ -43,6 +43,6 @@ Certyfikowany tester ISTQB. Poziom podstawowy - Roman Adam, Stapp Lucjan
 Język SQL. Przyjazny podręcznik. Wydanie III - Larry Rockoff
 
 # Languages 
-Polish - Native 
-Turkish - B2/C1
-English - B2
+- Polish - Native 
+- Turkish - B2/C1
+- English - B2
