@@ -33,6 +33,8 @@ https://drive.google.com/file/d/1xCAx5wcOe07EDlJxEIxQ_pMNyqqlbM7b/view?usp=shari
 
 # Test cases and bug report for website - planetarium.olsztyn.pl
 
+https://drive.google.com/file/d/1Z_kQ_bZ6MwluguniwdWyvlWtui1FaYZr/view?usp=sharing
+
 # Technical Books read
 
 Radosław Smilgin - Zawód tester
