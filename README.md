@@ -25,6 +25,8 @@ CodersLab - Manual Software Tester Course
 
 # Test plan for Olsztyn Planetarium and Astronomical Observatory website
 
+https://drive.google.com/file/d/1ri9tFPbP64Fdukm9cUydPrT-7fg25no8/view?usp=sharing
+
 # Test cases for webstite - dobreliski.pl 
 
 https://drive.google.com/file/d/1xCAx5wcOe07EDlJxEIxQ_pMNyqqlbM7b/view?usp=sharing
