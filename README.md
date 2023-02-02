@@ -18,7 +18,7 @@ CodersLab - Manual Software Tester Course
  - SQL (MYSQL)
  - Jira 
  - Postman 
- - SoupUI
+ - SoapUI
  - GitHub 
  - Slack
  
