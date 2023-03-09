@@ -24,6 +24,9 @@ Selenium. Your first automated test in Python ("Selenium. Twój pierwszy automat
  - Slack
  - PyCharm CE
  
+# Certificates 
+ISTQB Foundation Level 
+
 
 # Test plan for Olsztyn Planetarium and Astronomical Observatory website
 
