@@ -28,6 +28,8 @@ Selenium. Your first automated test in Python ("Selenium. Twój pierwszy automat
 ISTQB Foundation Level 
 
 
+
+
 # Test plan for Olsztyn Planetarium and Astronomical Observatory website
 
 https://drive.google.com/file/d/1ri9tFPbP64Fdukm9cUydPrT-7fg25no8/view?usp=sharing
