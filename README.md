@@ -6,21 +6,23 @@ My name is Monika and I am searching for a job as a junior manual software teste
 
 CodersLab - Manual Software Tester Course 
 
+Selenium. Your first automated test in Python ("Selenium. Twój pierwszy automatyczny test w Python") - Tomasz Kaniecki 
+
+
 # Skills 
 
-- Writing test scenarios, 
+- Writing test scenarios 
 - Writing test cases 
 - Creating test plan 
 - Reporting defects 
-- Got acquainted with the Agile methodology, testing mobile applications.
+- Got acquainted with the Agile methodology and testing mobile applications
 
 # Tools 
  - SQL (MYSQL)
- - Jira 
- - Postman 
- - SoapUI
+ - Jira  
  - GitHub 
  - Slack
+ - PyCharm CE
  
 
 # Test plan for Olsztyn Planetarium and Astronomical Observatory website
